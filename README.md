@@ -146,6 +146,12 @@ http://localhost:8080/email/build
 
 ---
 
+## 📚 Further Reading
+You can read a detailed explanation of this project and the Template Method Pattern in the blog post here:  
+👉 [Read the Blog Post](https://ercan.dev/blog/notes/spring-boot-template-method-pattern-example)
+
+---
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, submit pull requests or open issues.
 
